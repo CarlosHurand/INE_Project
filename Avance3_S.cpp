@@ -4,15 +4,15 @@
     Proyecto Avance 3.
     Juan Carlos Hurtado Andrade / A01025193.
     ------------------------------------------------------------------------------------------------------------------------
-   |                                                                  														|
+   |                                                                  							    |
    | 	Sistema que administra el padron electoral de un grupo de 10 personas.                                              |
    |    Se puede cargar toda la información de la credencial del INE de una persona de manera individual.                   |
    |    Se puede editar toda la información de la credencial del INE de una persona de manera individual.                   |
    |    Se puede imprimir toda la información de la credencial del INE de una persona de manera individual.                 |
    |    Se puede borrar toda la información de la credencial del INE de una persona de manera individual.                   |
-   |  	El programa hace varias verificaciones para asegurarse hasta cierto punto que el usuario desea llevar a cabo		|
-   |    las operaciones seleccionadas.																	                  	|
-   |                                          																				|
+   |  	El programa hace varias verificaciones para asegurarse hasta cierto punto que el usuario desea llevar a cabo	    |
+   |    las operaciones seleccionadas.											    |
+   |                                          										    |
     ------------------------------------------------------------------------------------------------------------------------
 */
 
